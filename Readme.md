@@ -17,6 +17,8 @@ Finally, I would strongly encourage you to install the `newapp` script from [her
 
 #### If you are using the `newapp` tool
 
+*NOTE:* If you do not use a lowercased project/folder name, the automatic deploy to surge with `npm run deploy` will fail as surge.sh always expects lowercased names.
+
 1. Run `$ newapp template <project name>`
 2. Change in to your new project
 3. Initialize Git `$ git init`
