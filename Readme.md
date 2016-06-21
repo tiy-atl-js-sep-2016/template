@@ -1,3 +1,18 @@
+# Installation
+
+#### Prerequisites
+
+Make sure you have an up to date installation of `npm`
+with `brew update` followed by either `brew install npm` or `brew upgrade npm`.
+
+Then use npm to install the following apps with `npm install -g $APP_NAME`
+* `gulp-cli`
+* `surge`
+
+Finally, I would strongly encourage you to install the `newapp` script from [here][newapp].
+
+[newapp]: https://gist.github.com/kingcons/a25733c233faf10847cbb4ff557e6843
+
 # Usage
 
 #### If you are using the `newapp` tool
